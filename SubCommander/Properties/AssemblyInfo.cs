@@ -16,6 +16,6 @@ using System.Runtime.InteropServices;
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("f9dd1ee0-78d5-4db9-98c1-0d520c2669ce")]
 [assembly: AssemblyProductAttribute("SubCommander")]
-[assembly: AssemblyCopyrightAttribute("Copyright ©2006-2008 The SubSonic Project")]
+[assembly: AssemblyCopyright("Copyright ©2006-2020 The SubSonic Project")]
 [assembly: AssemblyVersionAttribute("2.1.1.0")]
 [assembly: AssemblyFileVersionAttribute("2.1.1.0")]

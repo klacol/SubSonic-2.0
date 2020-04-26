@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SubStage")]
-[assembly: AssemblyCopyright("Copyright ©2006-2008 The SubSonic Project")]
+[assembly: AssemblyCopyright("Copyright ©2006-2020 The SubSonic Project")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

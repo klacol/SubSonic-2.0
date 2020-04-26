@@ -86,6 +86,6 @@ using System.Web.UI;
 [assembly: WebResource("SubSonic.Controls.Resources.Scaffold.css", "text/css", PerformSubstitution = true)]
 //[assembly: AssemblyKeyFileAttribute("subsonic.snk")]
 [assembly: AssemblyProductAttribute("SubSonic")]
-[assembly: AssemblyCopyrightAttribute("Copyright ©2006-2009 The SubSonic Project")]
+[assembly: AssemblyCopyright("Copyright ©2006-2020 The SubSonic Project")]
 [assembly: AssemblyVersionAttribute("2.2.1.0")]
 [assembly: AssemblyFileVersionAttribute("2.2.1.0")]

@@ -21,6 +21,6 @@ using System.Runtime.InteropServices;
 
 
 [assembly: AssemblyProductAttribute("SubSonic.Tests")]
-[assembly: AssemblyCopyrightAttribute("Copyright ©2006-2009 The SubSonic Project")]
+[assembly: AssemblyCopyright("Copyright ©2006-2020 The SubSonic Project")]
 [assembly: AssemblyVersionAttribute("2.2.1.0")]
 [assembly: AssemblyFileVersionAttribute("2.2.1.0")]
